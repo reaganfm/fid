@@ -1,3 +1,10 @@
+@charset "UTF-8";
+ul#link li {
+  font-family: "Bowlby One";
+  display:inline;
+  text-align: center;
+}
+
 body {
   background: #E6FDFF;
   margin: 0 10%;
